@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "a0488b5a-94cc-4519-ae6a-d8967ddac411")
+	(uuid "30fed3cc-0a93-4db2-9dde-9bb0fa43fee2")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x04"
@@ -809,6 +809,259 @@
 			(embedded_fonts no)
 		)
 	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 130.81 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a11866a-3bf5-4f0b-9d57-b7251492018f")
+	)
+	(hierarchical_label "D6"
+		(shape bidirectional)
+		(at 57.15 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0d918ea1-3929-44be-91d7-68bcf57e0ab4")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 57.15 39.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2f57516e-1317-4604-b519-57a52dbd4f25")
+	)
+	(hierarchical_label "SCK"
+		(shape passive)
+		(at 118.11 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "35dcfb25-48f0-45cf-a0bc-9a59aecea94c")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 130.81 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "46a2d4f6-5bf4-4b91-8b56-653cf4b8970c")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 120.65 41.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4eabbce1-3bc9-4ed5-8e37-ea884b456bf2")
+	)
+	(hierarchical_label "GND"
+		(shape output)
+		(at 57.15 87.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "50e2b818-f4c8-41e2-8858-d8819a234e9d")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 120.65 39.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "59434769-ed9d-46bc-915f-744a4a52ebea")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 57.15 41.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "65c43808-877d-4cf1-aad9-d47001370920")
+	)
+	(hierarchical_label "MISO"
+		(shape output)
+		(at 118.11 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6d10ad0d-28f8-4971-926c-2a39e9a7960e")
+	)
+	(hierarchical_label "D3"
+		(shape bidirectional)
+		(at 57.15 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "750c006c-8f51-45cb-b2d7-4bd640a87097")
+	)
+	(hierarchical_label "D8"
+		(shape bidirectional)
+		(at 57.15 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7b18aa6e-bb32-4418-9bf9-cc1ff8dc7a9c")
+	)
+	(hierarchical_label "SDA"
+		(shape bidirectional)
+		(at 57.15 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8c797619-f4c7-416d-b57b-aab2d7c9acb2")
+	)
+	(hierarchical_label "D2"
+		(shape bidirectional)
+		(at 57.15 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8d9572c4-0a14-4590-a51e-c71e6397d034")
+	)
+	(hierarchical_label "SCL"
+		(shape bidirectional)
+		(at 57.15 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "94a22c68-a24e-4013-b8fe-d0635c850c47")
+	)
+	(hierarchical_label "Vcc"
+		(shape output)
+		(at 57.15 90.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96127ca5-66d5-4050-b607-d9590c9e432b")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 130.81 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a119d55e-27f1-4f07-8715-ad6d6029669f")
+	)
+	(hierarchical_label "D5"
+		(shape bidirectional)
+		(at 57.15 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "af177ee6-6bcc-4f63-a1a5-3606dcd6172e")
+	)
+	(hierarchical_label "RX"
+		(shape input)
+		(at 120.65 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b0168829-d7ed-45fc-8e2d-5691a2c13725")
+	)
+	(hierarchical_label "D7"
+		(shape bidirectional)
+		(at 57.15 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bc44020b-8daa-439d-aae2-5d43d8623812")
+	)
+	(hierarchical_label "TX"
+		(shape output)
+		(at 120.65 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ccac62b3-a716-4837-92a6-ae38f06e7901")
+	)
+	(hierarchical_label "RESET"
+		(shape passive)
+		(at 118.11 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e29d1497-7ea4-406b-afc3-ebcd4a1debe7")
+	)
+	(hierarchical_label "D4"
+		(shape bidirectional)
+		(at 57.15 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e5a31b65-d9a2-4b70-9d85-d09932da1141")
+	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x09")
 		(at 62.23 80.01 0)
@@ -817,9 +1070,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "04388c32-f131-4d21-9c84-090dd5d1c3fb")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 64.77 78.7399 0)
 			(effects
 				(font
@@ -837,7 +1089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical"
 			(at 62.23 80.01 0)
 			(effects
 				(font
@@ -862,6 +1114,23 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 62.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" "GPIO"
+			(at 61.976 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 			)
 		)
 		(pin "8"
@@ -894,7 +1163,7 @@
 		(instances
 			(project ""
 				(path "/a08b1d3f-e118-4ee7-8d96-2e220d0668f8/d051774b-47dc-4f71-a75f-a0885941fe0a"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -908,7 +1177,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "08342fe2-48e0-4c8f-90db-cace1fb059ff")
 		(property "Reference" "J4"
 			(at 124.46 63.5 0)
@@ -926,7 +1194,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 			(at 123.19 72.39 0)
 			(effects
 				(font
@@ -951,6 +1219,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 123.19 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" "ICSP"
+			(at 124.714 78.232 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "4"
@@ -988,7 +1272,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "37d91a87-d808-49aa-b0ef-3481ba6d96ea")
 		(property "Reference" "J3"
 			(at 128.27 41.9099 0)
@@ -1008,7 +1291,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 125.73 41.91 0)
 			(effects
 				(font
@@ -1033,6 +1316,23 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 125.73 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" "SERIAL UART"
+			(at 125.73 51.054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 			)
 		)
 		(pin "2"
@@ -1064,9 +1364,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5e4888f4-b6fa-4e05-a962-25d3e1428b13")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 64.77 41.9099 0)
 			(effects
 				(font
@@ -1084,7 +1383,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 62.23 41.91 0)
 			(effects
 				(font
@@ -1111,6 +1410,22 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 62.23 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" "I2C"
+			(at 61.976 50.292 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8dc1c6f2-46c6-4ce9-a028-234287124d32")
 		)
@@ -1126,7 +1441,7 @@
 		(instances
 			(project ""
 				(path "/a08b1d3f-e118-4ee7-8d96-2e220d0668f8/d051774b-47dc-4f71-a75f-a0885941fe0a"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)

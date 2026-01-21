@@ -1,4 +1,7 @@
 (fp_lib_table
   (version 7)
   (lib (name "DS1337S_")(type "KiCad")(uri "D:/Usuario/Documents/KiCad/9.0/libraries_3r/DS1337S_")(options "")(descr ""))
+  (lib (name "MCP7940N_SOIC")(type "KiCad")(uri "${KIPRJMOD}/Library/MCP7940N_SOIC")(options "")(descr ""))
+  (lib (name "S8411-45R")(type "KiCad")(uri "${KIPRJMOD}/Library/S8411-45R")(options "")(descr ""))
+  (lib (name "FC-135_32.7680KA-A0")(type "KiCad")(uri "${KIPRJMOD}/Library/FC-135_32.7680KA-A0")(options "")(descr ""))
 )

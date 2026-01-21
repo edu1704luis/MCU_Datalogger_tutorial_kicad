@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "DS1337S_")(type "KiCad")(uri "D:/Usuario/Documents/KiCad/9.0/libraries_3r/DS1337S_/DS1337S_.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP7940NT-I_SN")(type "KiCad")(uri "${KIPRJMOD}/Library/MCP7940N_SOIC/MCP7940NT-I_SN.kicad_sym")(options "")(descr ""))
+  (lib (name "S8411-45R")(type "KiCad")(uri "${KIPRJMOD}/Library/S8411-45R/S8411-45R.kicad_sym")(options "")(descr ""))
 )

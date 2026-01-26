@@ -1449,7 +1449,7 @@
 			(fill
 				(type none)
 			)
-			(uuid abfbf6ec-4f04-4beb-bdc7-76e1c4ea6971)
+			(uuid ed99d70f-d670-48a0-8122-3158fe551325)
 		)
 	)
 	(symbol
@@ -1461,7 +1461,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "04388c32-f131-4d21-9c84-090dd5d1c3fb")
-		(property "Reference" "J2"
+		(property "Reference" "J5"
 			(at 64.77 78.7399 0)
 			(effects
 				(font
@@ -1553,7 +1553,7 @@
 		(instances
 			(project ""
 				(path "/a08b1d3f-e118-4ee7-8d96-2e220d0668f8/d051774b-47dc-4f71-a75f-a0885941fe0a"
-					(reference "J2")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -1568,7 +1568,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "08342fe2-48e0-4c8f-90db-cace1fb059ff")
-		(property "Reference" "J3"
+		(property "Reference" "J4"
 			(at 63.5 52.07 0)
 			(effects
 				(font
@@ -1648,7 +1648,7 @@
 		(instances
 			(project ""
 				(path "/a08b1d3f-e118-4ee7-8d96-2e220d0668f8/d051774b-47dc-4f71-a75f-a0885941fe0a"
-					(reference "J3")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -1663,7 +1663,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "37d91a87-d808-49aa-b0ef-3481ba6d96ea")
-		(property "Reference" "J4"
+		(property "Reference" "J6"
 			(at 96.52 41.9099 0)
 			(effects
 				(font
@@ -1740,7 +1740,7 @@
 		(instances
 			(project "MCU_Datalogger"
 				(path "/a08b1d3f-e118-4ee7-8d96-2e220d0668f8/d051774b-47dc-4f71-a75f-a0885941fe0a"
-					(reference "J4")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -1755,7 +1755,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e4888f4-b6fa-4e05-a962-25d3e1428b13")
-		(property "Reference" "J1"
+		(property "Reference" "J3"
 			(at 64.77 41.9099 0)
 			(effects
 				(font
@@ -1831,7 +1831,7 @@
 		(instances
 			(project ""
 				(path "/a08b1d3f-e118-4ee7-8d96-2e220d0668f8/d051774b-47dc-4f71-a75f-a0885941fe0a"
-					(reference "J1")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -1847,7 +1847,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcaeeb8b-3454-42f8-aba6-384a2cf42816")
-		(property "Reference" "J5"
+		(property "Reference" "J7"
 			(at 96.52 81.2799 0)
 			(effects
 				(font
@@ -1916,7 +1916,7 @@
 		(instances
 			(project ""
 				(path "/a08b1d3f-e118-4ee7-8d96-2e220d0668f8/d051774b-47dc-4f71-a75f-a0885941fe0a"
-					(reference "J5")
+					(reference "J7")
 					(unit 1)
 				)
 			)
